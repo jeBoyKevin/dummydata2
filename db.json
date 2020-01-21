@@ -1,0 +1,7 @@
+{
+  "pizza": [
+    { "id": 1, "title": "Pizza hawaii" },
+    { "id": 2, "title": "Pizza Shoarma" },
+    { "id": 3, "title": "Pizza Kip" }
+  ]
+}
